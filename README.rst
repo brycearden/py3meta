@@ -3,13 +3,13 @@ py3meta
 =======
 
 
-Add a short description here!
+This project is a test of some of the Python3 metaprogramming tutorials that I found online.
 
 
 Description
 ===========
 
-A LONGER DESCRIPTION OF YOUR PROJECT GOES HERE...
+I will add a longer description of the project as soon as it is complete
 
 
 Note
